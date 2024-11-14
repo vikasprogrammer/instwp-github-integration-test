@@ -4,7 +4,7 @@
  *
  * @package hello-world
  *
- * Plugin Name: InstaWP Hello World Demo
+ * Plugin Name: InstaWP Hello World Demo1
  * Plugin URI: https://instawp.io
  * Description: A plugin to greet the visitors or just another test plugin to be honest.
  * Version: 1.2.3
